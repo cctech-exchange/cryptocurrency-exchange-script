@@ -44,3 +44,4 @@ Recommended server requirements for CCTech Exchange:
 Ready to get started with our cryptocurrency exchange software or need assistance?
 
 [Visit Website](https://cryptocurrency-exchange.software)
+[Visit Telegram](https://t.me/s/cryptocurrency_exchange_software)

@@ -4,7 +4,7 @@ Start your own cryptocurrency exchange business with White Label Cryptocurrency 
 Secure, Fast, 100% Fully Tested Source Code is guaranteed.
 
 <picture>
-  <img alt="Cryptocurrency Exchange Script" src="https://cryptocurrency-exchange.software/wp-content/themes/cctech/media/banner/bg-mockups.webp">
+  <img alt="Cryptocurrency Exchange Script" src="/cctech-exchange/cryptocurrency-exchange-script/raw/bg-mockups.webp">
 </picture>
 
 Are you planning to start your own cryptocurrency exchange that supports trading with Ethereum, Bitcoin, Altcoins, and other cryptocurrencies? CCTech Exchange offers you the cryptocurrency exchange product with all the essential features you need to create a safe and secured open-source trading platform!
